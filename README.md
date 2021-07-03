@@ -1,4 +1,4 @@
-# pytorch-zh-NER
+# pytorch-NER
 RoBERTa + BiLSTM + CRF for Chinese NER Task
 
 ## CLUENER

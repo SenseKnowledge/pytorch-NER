@@ -1,8 +1,8 @@
 import torch
 
-from zhner.model import RoBERTa_BiLSTM_CRF
-from zhner.dataset import CLUEDataset, DataLoader, id2tag, decode_tags_from_ids
-from zhner.metrics import Score
+from package.model import RoBERTa_BiLSTM_CRF
+from package.dataset import CLUEDataset, DataLoader, id2tag, decode_tags_from_ids
+from package.metrics import Score
 from torch.optim import Adam
 from tqdm import tqdm
 from pprint import pprint

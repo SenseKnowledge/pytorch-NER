@@ -1,6 +1,12 @@
 # pytorch-NER
 RoBERTa + BiLSTM + CRF for Chinese NER Task
 
+## Requirement
+- python 3.8
+- pytorch 1.8.1
+- transformers 4.11
+- tqdm
+
 ## CLUENER
 fine-grained named entity recognition dataset and benchmark for chinese [[see also]](clue/README.md)
 
